@@ -13,7 +13,7 @@ import reactor.test.StepVerifier;
 import reactor.util.function.Tuple2;
 
 @SpringBootTest
-class ReactorApplicationTests {
+class ReactorCreatingTypes {
 
 	@Test
 	void contextLoads() {
